@@ -21,8 +21,11 @@ cd <repository-folder>
 
 ### 2. Set Up the Backend
 
+```bash
 cd DataVisualization-Server
 npm install
+
+```
 
 ### 3. Set up MongoDB Database
 
