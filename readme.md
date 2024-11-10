@@ -31,7 +31,7 @@ npm install
 
 Open MongoDB Compass.
 Connect to localhost:27017.
-Create a new database and name it visualization.
+Create a new database and name it`bash visualization.`
 
 ### 4. Create a .env File
 
