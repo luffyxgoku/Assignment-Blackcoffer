@@ -35,37 +35,57 @@ Create a new database and name it visualization.
 
 ### 4. Create a .env File
 
+```bash
 MONGODB_URI=mongodb://localhost:27017/visualization
 PORT=5000
 
+```
+
 ### 5. Run the Backend Server
 
+```bash
 npm run dev
+
+```
 
 ### 6. Set up the Frontend
 
 1. Navigate to the Frontend Folder:
 
+```bash
 cd ../DataVisualization-Client
+
+```
 
 2. Then run these commands
 
+```bash
 npm install
 npm run dev
 
+```
+
 ### Summary:-
 
+```bash
 git clone <repository-url>
 cd <repository-folder>
+```
 
 # Backend setup
 
+```bash
 cd DataVisualization-Server
 npm install
 npm run dev
 
+```
+
 # Frontend setup
 
+```bash
 cd ../DataVisualization-Client
 npm install
 npm run dev
+
+```
